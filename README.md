@@ -51,6 +51,7 @@ Sistema de predicción de abandono de clientes mediante técnicas de aprendizaje
   - [Hiperparámetros](#hiperparámetros)
   - [Tecnologías](#tecnologías)
   - [Autor](#autor)
+  - [Licencia](#licencia)
 
 ## Resumen
 
