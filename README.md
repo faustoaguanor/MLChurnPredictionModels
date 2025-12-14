@@ -2,7 +2,7 @@
 
 # Customer Churn Prediction in Telecommunications
 
-<img src="https://yachaytech.edu.ec/wp-content/uploads/2023/12/Logo-YT-Azul-Transparencia-220x103-1.png" alt="Yachay Tech Logo" width="300"/>
+<img src="utils\logo_yachay.png" alt="Yachay Tech Logo" width="300"/>
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
